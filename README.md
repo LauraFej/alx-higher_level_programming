@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-For python 
+this is for high level programming python 
