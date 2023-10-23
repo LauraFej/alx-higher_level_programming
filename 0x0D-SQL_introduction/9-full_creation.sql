@@ -1,4 +1,4 @@
-i-- This file creates and fills a table second_table with attributes
+-- This file creates and fills a table second_table with attributes
 -- id, name and score in my MySQL server with multiple rows.
 
 CREATE TABLE IF NOT EXISTS `second_table` (`id` INT, `name` varchar(200), `score` INT);
